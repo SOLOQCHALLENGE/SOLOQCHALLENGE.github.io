@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+  }
+  
+  table {
+    background-color: #111;
+    color: white;
+  }
+  
+  th {
+    font-weight: bold;
+    background-color: #222;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: none;
+  }
+
+  
